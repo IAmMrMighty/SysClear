@@ -1,2 +1,3 @@
 # SysClear
-A small batch script for cleaning temporary files on your computer
+
+Simply run it on a Microsoft Windows operating system
